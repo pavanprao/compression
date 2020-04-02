@@ -4,7 +4,7 @@ pipeline {
     stages {
 	    stage('Checkout') {
             steps {
-            	git "https://git.enstage-sas.com/eguard/compression.git"
+            	git "https://github.com/pavanprao/compression.git"
             }
     	}
 	    stage('Compile') {
