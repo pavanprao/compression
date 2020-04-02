@@ -7,7 +7,7 @@ pipeline {
             	git "https://git.enstage-sas.com/eguard/compression.git"
             }
     	}
-	    stage('Checkout') {
+	    stage('Compile') {
             steps {
             	sh "./mvnw clean install -DskipTests"
             }
