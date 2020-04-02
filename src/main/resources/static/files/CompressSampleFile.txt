@@ -1,0 +1,1182 @@
+{
+    "id": "PrimaryStats::cardNo::cdbYyAN3Z4HGDWNxWe+x+b0t3RpjGi0cucMVuGt+ozU=::*::*::*::",
+    "created": 1564051027632,
+    "updated": 1564051027632,
+    "cas": 0,
+    "expiry": 3600,
+    "version": 1,
+    "paramId": null,
+    "paramValue": null,
+    "txnType": null,
+    "stats": {
+        "count": 12,
+        "countSuccess": 0,
+        "countFailure": 0,
+        "sumAmount": 373005444,
+        "sumAmountSuccess": 0,
+        "sumAmountFailure": 0,
+        "sumAmountSQ": 11594421771136428,
+        "sumAmountSuccessSQ": 0,
+        "sumAmountFailureSQ": 0,
+        "max": 31083787,
+        "maxSuccess": 0,
+        "maxFailure": 0,
+        "min": 31083787,
+        "minSuccess": 0,
+        "minFailure": 0,
+        "oldestDate": 0,
+        "uniqueDay": {
+            "20190725": {
+                "count": 12,
+                "sumAmount": 373005444,
+                "sumAmountSQ": 11594421771136428,
+                "amountList":[1,2]
+            }
+        },
+        "uniqueDaySuccess": {},
+        "uniqueDayFailure": {},
+        "uniqueMonth": {
+            "201907": {
+                "count": 12,
+                "sumAmount": 373005444,
+                "sumAmountSQ": 11594421771136428
+            }
+        },
+        "uniqueMonthSuccess": {},
+        "uniqueMonthFailure": {},
+        "uniqueHours": {
+            "2019072516": {
+                "count": 9,
+                "sumAmount": 279754083,
+                "sumAmountSQ": 8695816328352321
+            },
+            "2019072517": {
+                "count": 3,
+                "sumAmount": 93251361,
+                "sumAmountSQ": 2898605442784107
+            }
+        },
+        "uniqueHoursSuccess": {},
+        "uniqueHoursFailure": {},
+        "uniqueMins": {
+            "201907251749": {
+                "count": 1,
+                "sumAmount": 31083787,
+                "sumAmountSQ": 966201814261369
+            },
+            "201907251607": {
+                "count": 9,
+                "sumAmount": 279754083,
+                "sumAmountSQ": 8695816328352321
+            },
+            "201907251753": {
+                "count": 1,
+                "sumAmount": 31083787,
+                "sumAmountSQ": 966201814261369
+            },
+            "201907251754": {
+                "count": 1,
+                "sumAmount": 31083787,
+                "sumAmountSQ": 966201814261369
+            }
+        },
+        "uniqueMinsSuccess": {},
+        "uniqueMinsFailure": {}
+    },
+    "entityStats": {
+        "EntityStats::bin:: 76543::": {
+            "entityId": "bin",
+            "entityValue": " 76543",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::bin:: 76543::"
+        },
+        "EntityStats::txnCountry::DE::": {
+            "entityId": "txnCountry",
+            "entityValue": "DE",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::txnCountry::DE::"
+        },
+        "EntityStats::mcc::7922::": {
+            "entityId": "mcc",
+            "entityValue": "7922",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::mcc::7922::"
+        },
+        "EntityStats::sourceCurrencyCode::840::": {
+            "entityId": "sourceCurrencyCode",
+            "entityValue": "840",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::sourceCurrencyCode::840::"
+        },
+        "EntityStats::ip::5.6.7.9::": {
+            "entityId": "ip",
+            "entityValue": "5.6.7.9",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::ip::5.6.7.9::"
+        },
+        "EntityStats::merchantName::paytm::": {
+            "entityId": "merchantName",
+            "entityValue": "paytm",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019080711": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::merchantName::paytm::"
+        },
+        "EntityStats::email::Test1@example.com::": {
+            "entityId": "email",
+            "entityValue": "Test1@example.com",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::email::Test1@example.com::"
+        },
+        "EntityStats::merchantId::1234567890::": {
+            "entityId": "merchantId",
+            "entityValue": "1234567890",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::merchantId::1234567890::"
+        },
+        "EntityStats::merchantCountry::840::": {
+            "entityId": "merchantCountry",
+            "entityValue": "840",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::merchantCountry::840::"
+        },
+        "EntityStats::Browser::Mozilla::": {
+            "entityId": "Browser",
+            "entityValue": "Mozilla",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::Browser::Mozilla::"
+        },
+        "EntityStats::purchaseAmount::31083787::": {
+            "entityId": "purchaseAmount",
+            "entityValue": "31083787",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::purchaseAmount::31083787::"
+        },
+        "EntityStats::cardNo::cdbYyAN3Z4HGDWNxWe+x+b0t3RpjGi0cucMVuGt+ozU=::": {
+            "entityId": "cardNo",
+            "entityValue": "cdbYyAN3Z4HGDWNxWe+x+b0t3RpjGi0cucMVuGt+ozU=",
+            "entityValueEnc": "gjro07Mi847x+FmRBWzhPFp2r2YB/wy+",
+            "entityValueMask": " 76543xxxxxxxx20",
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::cardNo::cdbYyAN3Z4HGDWNxWe+x+b0t3RpjGi0cucMVuGt+ozU=::"
+        },
+        "EntityStats::purchaseCurrencyCode::356::": {
+            "entityId": "purchaseCurrencyCode",
+            "entityValue": "356",
+            "entityValueEnc": null,
+            "entityValueMask": null,
+            "paramId": null,
+            "paramValue": null,
+            "txnType": null,
+            "stats": {
+                "count": 12,
+                "countSuccess": 0,
+                "countFailure": 0,
+                "sumAmount": 373005444,
+                "sumAmountSuccess": 0,
+                "sumAmountFailure": 0,
+                "sumAmountSQ": 11594421771136428,
+                "sumAmountSuccessSQ": 0,
+                "sumAmountFailureSQ": 0,
+                "max": 31083787,
+                "maxSuccess": 0,
+                "maxFailure": 0,
+                "min": 31083787,
+                "minSuccess": 0,
+                "minFailure": 0,
+                "oldestDate": 0,
+                "uniqueDay": {
+                    "20190725": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueDaySuccess": {},
+                "uniqueDayFailure": {},
+                "uniqueMonth": {
+                    "201907": {
+                        "count": 12,
+                        "sumAmount": 373005444,
+                        "sumAmountSQ": 11594421771136428
+                    }
+                },
+                "uniqueMonthSuccess": {},
+                "uniqueMonthFailure": {},
+                "uniqueHours": {
+                    "2019072516": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "2019072517": {
+                        "count": 3,
+                        "sumAmount": 93251361,
+                        "sumAmountSQ": 2898605442784107
+                    }
+                },
+                "uniqueHoursSuccess": {},
+                "uniqueHoursFailure": {},
+                "uniqueMins": {
+                    "201907251749": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251607": {
+                        "count": 9,
+                        "sumAmount": 279754083,
+                        "sumAmountSQ": 8695816328352321
+                    },
+                    "201907251753": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    },
+                    "201907251754": {
+                        "count": 1,
+                        "sumAmount": 31083787,
+                        "sumAmountSQ": 966201814261369
+                    }
+                },
+                "uniqueMinsSuccess": {},
+                "uniqueMinsFailure": {}
+            },
+            "id": "EntityStats::purchaseCurrencyCode::356::"
+        }
+    },
+    "allTxnIdsInDescOrder": [],
+    "type": "com.wibmo.trident.entity.aggregation.PrimaryStats"
+}
