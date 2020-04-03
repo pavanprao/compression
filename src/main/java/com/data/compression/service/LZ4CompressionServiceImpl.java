@@ -45,6 +45,8 @@ public class LZ4CompressionServiceImpl implements LZ4CompressionService {
 
 		byte[] compressed = compress(fileBytes);
 		byte[] decompressed = decompress(compressed);
+		
+		logger.info("Done with compression and decompression");
 
 		if (decompressed.length == fileBytes.length) {
 			logger.info("LZ4 Compression and Decompression successful for File No.: {}", 1);
