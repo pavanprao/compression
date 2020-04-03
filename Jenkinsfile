@@ -1,21 +1,12 @@
 pipeline {
-	agent any
-	
+	agent {
+        docker { image 'node:7-alpine' }
+    }
     stages {
-	    stage('Checkout') {
+        stage('Test') {
             steps {
-            	git "https://github.com/pavanprao/compression.git"
+                sh 'node --version'
             }
-    	}
-	    stage('Compile') {
-            steps {
-            	sh 'mvn -Dmaven.test.failure.ignore=true install'
-            }
-            post {
-                success {
-                    junit 'target/surefire-reports/**/*.xml' 
-                }
-            }
-    	}
+        }
     }
 }
